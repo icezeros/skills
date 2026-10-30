@@ -1,6 +1,8 @@
 # skills
 
-Agent skills by [@icezeros](https://github.com/icezeros). Installable via the [skills](https://skills.sh) CLI (`npx skills`).
+[![skills.sh](https://skills.sh/b/icezeros/skills)](https://skills.sh/icezeros/skills)
+
+Agent skills by [@icezeros](https://github.com/icezeros). Installable via the [skills](https://skills.sh) CLI (`npx skills`). Listed at [skills.sh/icezeros/skills](https://skills.sh/icezeros/skills/sketch-spec-extract).
 
 ## Available Skills
 
